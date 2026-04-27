@@ -1,0 +1,13 @@
+漏洞: Mina/Monitor 未授权
+等级: 高危
+目标: https://www.dxy.cn
+时间: 2026-04-27 23:41:53.295072
+
+监控暴露
+URL: https://www.dxy.cn/mcluster
+Response: <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-sca
